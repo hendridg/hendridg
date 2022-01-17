@@ -1,20 +1,30 @@
-<div style="background : url(./polka-dots.svg) #555; height: 13rem; padding: 2rem; margin: 2rem 0">
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Awesome Books</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div class= "heading">
     <h2>Hi there, I'm Hendrid 🖐</h2>
     <p>FrontEnd Developer, <strong>React</strong> | <strong>Apollo GraphQL</strong></p>
     <div style="display:flex; justify-content: center; align-items: center">
-    <a href="https://reactjs.org/">
-        <img src="./logo.svg" style="height: 6rem"/>
-    </a>
-        <a href="https://www.apollographql.com/">
-    <img src="./apollo-graphql-1.svg" style="height: 6rem"/>
-    <a href="https://tailwindcss.com/">
-        <img src="./tailwind-css-wordmark.svg" style="height: 2rem"/>
-    </a>
+        <a href="https://reactjs.org/">
+            <img src="./logo.svg" style="height: 6rem"/>
+        </a>
+            <a href="https://www.apollographql.com/">
+        <img src="./apollo-graphql-1.svg" style="height: 6rem"/>
+        <a href="https://tailwindcss.com/">
+            <img src="./tailwind-css-wordmark.svg" style="height: 2rem"/>
+        </a>
     </div>
-    <div style="display:flex; justify-content: center; align-items: center">
-    <img src="./javascript-1.svg" style="height: 2rem; margin-left: 1rem"/>
-    <img src="./html-1.svg" style="height: 2rem; margin-left: 1rem"/>
-    <img src="./css-3.svg" style="height: 2rem; margin-left: 1rem"/>
+        <div style="display:flex; justify-content: center; align-items: center">
+        <img src="./javascript-1.svg" style="height: 2rem; margin-left: 1rem"/>
+        <img src="./html-1.svg" style="height: 2rem; margin-left: 1rem"/>
+        <img src="./css-3.svg" style="height: 2rem; margin-left: 1rem"/>
     </div>
 </div>
 
@@ -31,3 +41,5 @@ way of thinking, which I applied to projects, always going further
     <img src="./Linkedin.svg"/>
     </a>
 </div>
+</body>
+</hmtl>
