@@ -6,7 +6,7 @@
 <body>
 <div class= "heading">
     <h2>Hi there, I'm Hendrid 🖐</h2>
-    <p>FrontEnd Developer, <strong>React</strong> | <strong>Apollo GraphQL</strong></p>
+    <p>Full-Stack Developer, <strong>React</strong> | <strong>Apollo GraphQL</strong></p>
     <div style="display:flex; justify-content: center; align-items: center">
         <a href="https://reactjs.org/">
             <img src="./logo.svg" style="height: 6rem"/>
