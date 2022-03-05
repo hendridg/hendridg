@@ -1,13 +1,7 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <link rel="stylesheet" href="style.css">
-</head>
-<body>
 <div class= "heading">
     <h2>Hi there, I'm Hendrid 🖐</h2>
     <p>Full-Stack Developer, <strong>React</strong> | <strong>Apollo GraphQL</strong></p>
-    <div style="display:flex; justify-content: center; align-items: center">
+    <div display="flex" justifyContent= "center" alignItems= "center">
         <a href="https://reactjs.org/">
             <img src="./logo.svg" style="height: 6rem"/>
         </a>
@@ -37,5 +31,4 @@ way of thinking, which I applied to projects, always going further
     <img src="./Linkedin.svg"/>
     </a>
 </div>
-</body>
-</hmtl>
+
