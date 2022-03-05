@@ -1,7 +1,7 @@
 <div class= "heading">
     <h2>Hi there, I'm Hendrid 🖐</h2>
     <p>Full-Stack Developer, <strong>React</strong> | <strong>Apollo GraphQL</strong></p>
-    <div align="center">
+    <div align="center" justify="center">
         <a href="https://reactjs.org/">
             <img src="./logo.svg" style="height: 6rem"/>
         </a>
